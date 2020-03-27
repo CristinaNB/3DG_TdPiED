@@ -8,6 +8,7 @@ Prática texto que se gira y se da la vuelta [cuantuvasellatorna](p1.mp4)
 Text extruit amb forma dona [oceano](p2.mp4)
 
 ## p3
+Text amb rotació. [mareo]
 
 ## p4
 
