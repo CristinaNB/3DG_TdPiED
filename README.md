@@ -5,6 +5,7 @@ Contenido relativo a la producción y edición de gráficos en movimientoy 3D ap
 Prática texto que se gira y se da la vuelta [cuantuvasellatorna](p1.mp4)
 
 ## p2
+Text extruit amb forma dona [oceano]
 
 ## p3
 
