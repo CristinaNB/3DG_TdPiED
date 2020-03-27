@@ -33,6 +33,4 @@ Embudo con tipografía en movimiento [quedateencasa](p7.mp4)
 Realización de otras prácticas basadas en lo aprendido probando y creando nuevos resultados
 [caer](encasa1.mp4)-
 
-[disco](encasa2.mp4)-
-[serpiente](encasa3.mp4)
--
+[disco](encasa2.mp4)- [serpiente](encasa4.mp4)-
