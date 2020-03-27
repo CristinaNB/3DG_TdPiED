@@ -23,3 +23,9 @@ Aplicació de textures en cares diferents del cub. Rotació i bucle. [noesno](p5
 
 ## p6
 
+## otraspracticas
+Realización de otras prácticas basadas en lo aprendido probando y creando nuevos resultados
+[caer](encasa1.mp4) 
+[disco](encasa2.mp4)
+[serpiente](encasa3.mp4)
+
