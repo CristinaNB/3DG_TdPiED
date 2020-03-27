@@ -2,7 +2,7 @@
 Contenido relativo a la producción y edición de gráficos en movimientoy 3D aplicado al diseño gráfico
 
 ## p1
-Prática texto que se gira y se da la vuelta (p1.mp4)
+Prática texto que se gira y se da la vuelta [práctica1](p1.mp4)
 
 ## p2
 
