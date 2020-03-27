@@ -5,6 +5,7 @@ Contenido relativo a la producción y edición de gráficos en movimientoy 3D ap
 Prática texto que se gira y se da la vuelta [cuantuvasellatorna](p1.mp4)
 
 
+
 ## p2
 Text extruit amb forma dona [oceano](p2.mp4)
 
@@ -25,11 +26,13 @@ Aplicació de textures en cares diferents del cub. Rotació i bucle. [noesno](p5
 
 
 ## p7
+Embudo con tipografía en movimiento [quedateencasa](p7.mp4)
 
 
 ## otraspracticas
 Realización de otras prácticas basadas en lo aprendido probando y creando nuevos resultados
-[caer](encasa1.mp4) 
-[disco](encasa2.mp4)
-[serpiente](encasa3.mp4)
+[caer](encasa1.mp4)-
 
+[disco](encasa2.mp4)-
+[serpiente](encasa3.mp4)
+-
