@@ -29,6 +29,9 @@ Aplicació de textures en cares diferents del cub. Rotació i bucle. [noesno](p5
 Embudo con tipografía en movimiento [quedateencasa](p7.mp4)
 
 
+## p8
+Cartel coronavirus [coronavirus] (cartelcoronavirus.jpg)
+
 ## otraspracticas
 Realización de otras prácticas basadas en lo aprendido probando y creando nuevos resultados
 [caer](encasa1.mp4)-
