@@ -32,6 +32,9 @@ Embudo con tipografía en movimiento [quedateencasa](p7.mp4)
 ## p8
 Cartel coronavirus [coronavirus](p8.jpg)
 
+## p9
+Bodegón ordenador MAC [mac](p9.jpg)
+
 ## otraspracticas
 Realización de otras prácticas basadas en lo aprendido probando y creando nuevos resultados
 [caer](encasa1.mp4)-
