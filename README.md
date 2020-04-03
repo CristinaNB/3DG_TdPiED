@@ -38,4 +38,5 @@ Bodegón ordenador MAC [mac](p9.jpg)
 ## otraspracticas
 Realización de otras prácticas basadas en lo aprendido probando y creando nuevos resultados
 [caer](encasa1.mp4)-[planetas](escenari.mp4)
+-
 [disco](encasa2.mp4) - [serpiente](encasa4.mp4)
