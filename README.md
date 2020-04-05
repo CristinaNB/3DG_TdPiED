@@ -42,4 +42,5 @@ Realización de otras prácticas basadas en lo aprendido probando y creando nuev
 [planetasestaticos](planetas.jpg)
 [disco](encasa2.mp4)
 [serpiente](encasa4.mp4)
+[eresloqueproyectas](cristal.jpg)
 
