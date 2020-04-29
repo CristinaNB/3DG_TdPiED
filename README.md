@@ -40,6 +40,7 @@ Bodegón Proun [proun](p10.jpg)
 
 ## p11
 Mascota en base a formas geometricas [mascota](p11.jpg)
+Mascota en base a un boceto inicial [mascota2](mascota2.jpg)
 
 ## otraspracticas
 Realización de otras prácticas basadas en lo aprendido probando y creando nuevos resultados. Algunos de estos proyectos pesan much y no se abren con el enlace pero si estan subidos de forma correcta. 
