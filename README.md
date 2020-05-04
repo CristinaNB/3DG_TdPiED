@@ -59,4 +59,4 @@ Realización de otras prácticas basadas en lo aprendido probando y creando nuev
 ###
 [tiratealrollo](rollopapel.gif)
 ###
-[misalon](vajillaescenario.jpg)
+[misalon](vajillaescenario.jpg) 
