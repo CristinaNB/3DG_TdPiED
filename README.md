@@ -37,7 +37,13 @@ Textures aplicades al moviment de hojas de papel
 
 
 ## p5
-Aplicació de textures en cares diferents del cub. Rotació i bucle. [noesno](p5.mp4)
+Aplicació de textures en cares diferents del cub. Rotació i bucle. 
+
+[noesno.mp4](p5.mp4)
+
+[noesno.gif](p5.gif)
+
+
 
 
 ## p6
