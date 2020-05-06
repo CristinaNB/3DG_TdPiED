@@ -4,7 +4,7 @@ Contenido relativo a la producción y edición de gráficos en movimientoy 3D ap
 ## p1
 Prática texto que se gira y se da la vuelta.
 
-[cuantuvasellatorna.mp4](p1.mp4)-------
+[cuantuvasellatorna.mp4](p1.mp4)
 
 [cuantuvasellatorna.gif](p1.gif)
 
@@ -12,7 +12,7 @@ Prática texto que se gira y se da la vuelta.
 ## p2
 Text extruit amb forma dona.
 
-[oceano.mp4](p2.mp4)--------
+[oceano.mp4](p2.mp4)
 
 [oceano.gif](p2.gif)
 
