@@ -2,12 +2,12 @@
 Contenido relativo a la producción y edición de gráficos en movimientoy 3D aplicado al diseño gráfico
 
 ## p1
-Prática texto que se gira y se da la vuelta [cuantuvasellatorna](p1.mp4)[cuantuvasellatorna](p1.gif)
+Prática texto que se gira y se da la vuelta [cuantuvasellatornamp4](p1.mp4)[cuantuvasellatirnagif](p1.gif)
 
 
 
 ## p2
-Text extruit amb forma dona [oceano](p2.mp4)
+Text extruit amb forma dona [oceanomp4](p2.mp4)[oceanogif](p2.gif)
 
 
 ## p3
