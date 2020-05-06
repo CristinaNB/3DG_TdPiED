@@ -50,8 +50,11 @@ Aplicació de textures en cares diferents del cub. Rotació i bucle.
 
 
 ## p7
-Embudo con tipografía en movimiento [quedateencasa](p7.mp4)
+Embudo con tipografía en movimiento.
 
+[quedatencasa](p7.mp4)
+
+[quedatencasa.gif](p7.gif)
 
 ## p8
 Cartel coronavirus [coronavirus](p8.jpg)
